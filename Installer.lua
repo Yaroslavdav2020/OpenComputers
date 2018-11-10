@@ -12,10 +12,10 @@ local args, options = shell.parse(...)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 local URLs = {
-	applicationList = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Files.cfg",
-	installerLocalization = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Localizations/Installer/",
-	EFI = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/EFI/Minified.lua",
-	license = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/LICENSE",
+	applicationList = "https://raw.githubusercontent.com/Yaroslavdav2020/OpenComputers/master/Files.cfg",
+	installerLocalization = "https://raw.githubusercontent.com/Yaroslavdav2020/OpenComputers/master/Localizations/Installer/",
+	EFI = "https://raw.githubusercontent.com/Yaroslavdav2020/OpenComputers/master/EFI/Minified.lua",
+	license = "https://raw.githubusercontent.com/Yaroslavdav2020/OpenComputers/master/LICENSE",
 }
 
 ------------------------------------------------------------------------------------------------------------------------------------
