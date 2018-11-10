@@ -1,0 +1,310 @@
+Update 14.03.2017
+Added Applications:
+3DTest
+Updated Applications:
+Photoshop(v6.5), PrintImage, RayWalk(v3.5)
+Updated Libraries:
+ECSAPI.lua, GUI.lua, colorlib.lua, doubleBuffering.lua, image.lua, rayEngine.lua, vector.lua
+Updated File:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 15.03.2017
+Updated Applications:
+3DTest
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 16.03.2017
+Updated Applications:
+3DTest
+Updated Libraries:
+vector.lua
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 19.03.2017
+Updated Applications:
+3DTest
+Updated libraries:
+Main.lua(/lib/OpenComputersGL/), Main.lua(/lib/PolyCatEngine/)
+
+-----------------------------------------------------------------------------------------------
+
+Update 19.03.2017 14:00
+Updated Applications:
+MineCodeIDE
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 20.03.2017
+Updated Applications:
+MineCodeIDE
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 20.03.2017 15:00
+Updated Libraries:
+GUI.lua
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 20.03.2017 15:30
+Updated Applications:
+MineCodeIDE
+Updated Libraries:
+GUI.lua
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 23.03.2017
+Updated Applications:
+MineCodeIDE
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 24.03.2017
+Updated Applications:
+MineCodeIDE
+Updated Libraries:
+windows.lua
+Updated Files:
+Applications.txt, UniversalInstaller.lua (/Applications/)
+
+-----------------------------------------------------------------------------------------------
+
+Update 26.03.2017
+Added Files:
+compressor.lua.md, image.lua.md
+Updated Files:
+Russian.lang(MineOS/Languages/)
+Updated Libraries:
+palette.lua
+
+-----------------------------------------------------------------------------------------------
+
+Update 28.03.2017
+Updated Applications:
+3DTest
+Updated Libraries:
+colorlib.lua, Main.lua(/OpenComputersGL/), Main.lua(/PolyCatEngine/)
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 29.03.2017
+Updated Files:
+English.lang(MineOS/Languages/)
+
+-----------------------------------------------------------------------------------------------
+
+Update 02.04.2017
+Updated Applications:
+3DTest, Control2, GeoScan2, MineCodeIDE,
+PrintImage, RayWalk, SmartHouse
+Updated Libraries:
+GUI.lua, MineOSCore.lua, palette.lua
+Updated Files:
+GUI.md(/Documentation/), compressor.md(/Documentation/),
+English.lang(/Installer/), Russian.lang(/MineOS/Languages/),
+English.lang(/MineOS/Languages/), OS.lua(/MineOS/),
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 03.04.2017
+Updated Files:
+GUI.md(/Documentation/), EFI.lua(/MineOS/)
+Updated Libraries:
+GUI.lua
+
+-----------------------------------------------------------------------------------------------
+
+Update 09.04.2017
+Updated Applications:
+3DTest
+Updated Libraries:
+Main.lua(/MeowEngine/),
+event.lua
+Updated Files:
+GUI.md(/Documentation/),
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 12.04.2017
+Updated Libraries:
+syntax.lua
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 22.04.2017
+Updated Icons for Applications
+Updated Icons with (/MineOS/Icons/)
+Updated Wallpapers with (/MineOS/Wallpapers/)
+Updated Libraries:
+OCIF.lua (/lib/ImageFormatModules/), ECSAPI.lua,
+GUI.lua, MineOSCore.lua, advancedLua.lua,
+colorlib.lua, doubleBuffering.lua, event.lua,
+image.lua, internetLib.lua, palette.lua,
+rayEngine.lua, windows.lua
+Updated Files:
+Applications.txt
+
+-----------------------------------------------------------------------------------------------
+
+Update 23.04.2017
+Updated Applications:
+MineCodeIDE
+Updated Libraries:
+GUI.lua, MineOSCore.lua, doubleBuffering.lua,
+image.lua, web.lua
+Updated Files:
+installer2.lua (/Installer/), English.lang (/Installer/),
+Russian.lang (/Installer/), English.lang (/MineOS/License/),
+Russian.lang (/MineOS/License/), English.lang (/MineOS/Localization/),
+Russian.lang (/MineOS/Localization/), Applications.cfg
+
+-----------------------------------------------------------------------------------------------
+
+Update 23.04.2017 20:30
+Updated Applications:
+AppMarket, MineCodeIDE
+Updated Libraries:
+MineOSCore.lua
+Updated Files:
+Russian.lang (/Installer), English.lang (/Installer/),
+installer2.lua (/Installer/), OS.lua (/MineOS/),
+Applications.cfg
+
+-----------------------------------------------------------------------------------------------
+
+Update 24.04.2017
+Updated Applications:
+3DPrint, 3DTest, GeoScan2,
+Photoshop, PrintImage, Weather
+Updated Libraries:
+JPEG.lua (/ImageFormatModules/), Main.lua (/OpenComputersGL/),
+Materials.lua (/OpenComputersGL/), ECSAPI.lua,
+MineOSCore.lua, advancedLua.lua, color.lua, doubleBuffering.lua,
+image.lua, palette.lua, rayEngine.lua
+Added Files:
+MoonTouch.pic (/MineOS/Wallpapers/)
+Updated Files:
+Installer.lua (/Installer/), OS.lua (/MineOS/),
+Applications.cfg
+
+-----------------------------------------------------------------------------------------------
+
+Update 26.04.2017
+Updated Applications:
+FlappyBird
+Updated Files:
+draw.lua (/Applications/), GUI.md (/Documentation/),
+Installer.lua (/Installer/), English.lang (/MineOS/Localization/),
+Russian.lang (/MineOS/Localization/), Ciri.pic (/MineOS/Wallpapers/),
+OS.lua (/MineOS/), Applications.cfg
+Updated Folders:
+ImageConverter
+Updated Libraries:
+MineOSCore.lua, image.lua, doubleBuffering,
+color.lua
+
+-----------------------------------------------------------------------------------------------
+
+Update 30.06.2017
+Updated Applications:
+3DTest, AppMarket, GeoScan2, MineCodeIDE,
+PrintImage, RayWalk, Stargate, VK
+Updated Files:
+Installer.lua (/Installer/), Russian.lang (/MineOS/Localization/),
+English.lang (/MineOS/Localization/), Matrix.lua (/MineOS/Localization/),
+OS.lua (/MineOS/), Applications.cfg
+Updated Libraries:
+Renderer.lua (/OpenComputersGL/), GUI.lua, MineOSCore.lua,
+advancedLua.lua, color.lua, doubleBuffering.lua,
+image.lua, palette.lua, serialization.lua,
+syntax.lua
+
+-----------------------------------------------------------------------------------------------
+
+Update 19.08.2017
+BIG UPDATE!
+UPDATED A LOT OF FILES!
+:)
+
+-----------------------------------------------------------------------------------------------
+
+Update 24.08.2017
+Added Applications:
+Spinner
+Updated Files: OS.lua, Russian.lang (/MineOS/Localization/),
+English.lang (/MineOS/Localization/), Installer.lua (/MineOS/Localization/),
+Applications.cfg
+Updated Folders: ExtensionAssociations/
+Added Libraries: RAW.lua (/ImageFormatModules/)
+Updated Libraries: GUI.lua
+
+-----------------------------------------------------------------------------------------------
+
+Update 30.09.2017
+BIG UPDATE!
+UPDATED A LOT OF FILES!
+:)
+
+-----------------------------------------------------------------------------------------------
+
+UPD 30.10.2017:
+Big update!
+Updated many files!
+I can not write a list of these files. :D
+
+- Developer
+
+-----------------------------------------------------------------------------------------------
+
+UPD 01.11.17:
+Updated Applications:
+3DPrint, 3DTest, BufferDemo, Camera, Finder,
+FlappyBird, GeoScan2, HoloClock, MineCodeIDE,
+Photoshop, PrintImage, Radio, RayWalk, TurretControl,
+VK, Weather.
+Updated Libraries:
+Main.lua (in /MeowEngine/), Rendered.lua (in /OpenComputersGL/),
+MineOSCore.lua, MineOSInterface.lua, GUI.lua, color.lua,
+doubleBuffering.lua, rayEngine.lua, syntax.lua.
+Updated Files:
+Applications.cfg, OS.lua.
+
+"Wow! I wrote this big list of these files. Developers, admins, please congratulate me
+with my SUPER POWERS! Eh, okay, no one loves me. Ehhhhhh.", - Main Developer.
+
+-----------------------------------------------------------------------------------------------
+
+UPD 02.11.17:
+Updated Files:
+doubleBuffering.md (in /Documentation/), Applications.cfg.
+Updated Screensavers:
+Lines.lua
+Updated Libraries:
+doubleBuffering.lua
+
+-----------------------------------------------------------------------------------------------
