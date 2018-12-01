@@ -47,7 +47,7 @@ local function newCell(x, y, shaded)
 		end
 	end
 
-	object.eventHandler = function(mainContainer, object, e1, e2, e3, e4)
+	object.eventHandler = function(mainContainer, object, e1, e2, e3, e4, e5)
 		if e1 == "touch" or e1 == "drag" then
 			local x, y = math.ceil((e3 - object.x + 1) / 2), e4 - object.y + 1
 			
@@ -257,6 +257,5 @@ window.actionButtons.maximize:remove()
 
 newNoGUI(8, 4)
 mainContainer:drawOnScreen()
-
 
 
